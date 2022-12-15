@@ -1,6 +1,6 @@
-package com.java.homeWork;
+package com.java.homeWork.hw02;
 
-public class ArithmeticOperators02 {
+public class ArithmeticOperators {
     public static void main(String[] args) {
         System.out.println(14 % 5); //4
         System.out.println(21 % 6); //3

@@ -1,6 +1,6 @@
-package com.java.homeWork;
+package com.java.homeWork.hw01;
 
-public class DataTypes01 {
+public class DataTypes {
     public static void main(String[] args) {
         String stringStar = "* Star * ";
         boolean youLikeIt = true;

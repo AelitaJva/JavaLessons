@@ -33,5 +33,7 @@ public class revising {
 //         giveCertificate = aelitaGPA > 3.5 && missedClasses <= 3;
 //        System.out.println(giveCertificate);
 
+
+
     }
 }

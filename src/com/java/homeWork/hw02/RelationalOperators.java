@@ -1,6 +1,6 @@
-package com.java.homeWork;
+package com.java.homeWork.hw02;
 
-public class RelationalOperators02 {
+public class RelationalOperators {
     public static void main(String[] args) {
         int a = 1, b = -1;
         System.out.println(a > b); //true

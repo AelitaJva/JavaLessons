@@ -1,6 +1,6 @@
-package com.java.homeWork;
+package com.java.homeWork.hw03;
 
-public class ComparisonOperator03 {
+public class ComparisonOperator {
     public static void main(String[] args) {
         int creditScore = 1500;
         boolean maritalStatus = true;
