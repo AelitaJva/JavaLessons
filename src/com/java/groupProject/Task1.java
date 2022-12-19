@@ -1,6 +1,4 @@
-package com.java.groupProject2;
-
-import java.util.Scanner;
+package com.java.groupProject;
 
 public class Task1 {
     public static void main(String[] args) {
