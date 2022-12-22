@@ -18,12 +18,14 @@ public class TypeCasting {
 
         // explicit type casting
 
+
+
         double price = 2.99;
         // (int) is a type casting operator
         int convert = (int) price;
 
         double num2 = 9.01;
-        int convert2 = (int) num2;
+        int convert2 = (int) num2; // 9
 
         float floatNum = 2.4f;
         byte byteNum = (byte) floatNum;
