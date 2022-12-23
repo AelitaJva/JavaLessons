@@ -16,7 +16,7 @@ public class Bonus {
         if (yearsOfService <= 3 && yearsOfService < 5) {
             bonus = (salary*0.03);
             System.out.println(bonus);
-        } else if(yearsOfService < 5) {
+        } else if(yearsOfService <= 5) {
             bonus = (salary*0.05);
             System.out.println(bonus);
         } else
