@@ -13,7 +13,7 @@ public class nestedIFStatement {
         String ch2 = "Appetizer";
 
         String choice1 = in.nextLine();
-        String choice2 = in.nextLine();
+        //String choice2 = in.nextLine();
 
         if(choice1.equalsIgnoreCase("Main course") || choice1.equals("1")) {
             System.out.println("Your choice is " + ch1);
@@ -27,7 +27,7 @@ public class nestedIFStatement {
             } else if(choiceMainCourse.equalsIgnoreCase("NYC steak") || choiceMainCourse.equals("2")) {
                 System.out.println("NYC steak ingredients");
             }
-        } else if (choice2.equalsIgnoreCase("Appetizer") || choice2.equals("2")) {
+        } else if (choice1.equalsIgnoreCase("Appetizer") || choice1.equals("2")) {
             System.out.println("Your choice is " + ch2);
             System.out.println("1. Spring rolls");
             System.out.println("2. Egg rolls");
