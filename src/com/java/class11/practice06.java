@@ -25,7 +25,7 @@ public class practice06 {
                 break;
             case 2:
                 System.out.println("a is 2");
-                break;
+                break; 
             case 3:
                 System.out.println("a is 3");
                 break;
