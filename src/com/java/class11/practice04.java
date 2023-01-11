@@ -1,19 +1,25 @@
 package com.java.class11;
-
-import java.util.Scanner;
-
 public class practice04 {
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
-        int num1 = sc.nextInt();
+        enum shoes {
+            Adidas, Nike, Puma, Rebook;
+        }
+        shoes n1 = shoes.Adidas;
 
-        switch (num1 % 2) {
-            case 0:
-                System.out.println("this is even number");
+        switch (n1) {
+            case Adidas:
+                System.out.println("Adidas - Impossible is nothing");
                 break;
-            case 1:
-                System.out.println("this is odd number");
+            case Nike:
+                System.out.println("Nike - Just do it");
+                break;
+            case Puma:
+                System.out.println("Puma - Forever fast");
+                break;
+            case Rebook:
+                System.out.println("Rebook - I am what I am");
+                break;
         }
     }
 }
