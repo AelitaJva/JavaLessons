@@ -1,4 +1,4 @@
-package com.java.groupProject.gp02;
+package com.java.GroupProject.gp02;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.java.groupProject.gp02;
+package com.java.GroupProject.gp02;
 
 public class Task1 {
     public static void main(String[] args) {
