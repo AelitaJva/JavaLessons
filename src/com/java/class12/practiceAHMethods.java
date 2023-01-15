@@ -2,7 +2,6 @@ package com.java.class12;
 
 public class practiceAHMethods {
     public static void main(String[] args) {
-
         welcome();
         multiply(5, 5);
         multiply(6, 6);
