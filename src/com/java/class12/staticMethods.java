@@ -2,7 +2,7 @@ package com.java.class12;
 
 import java.util.Scanner;
 
-public class Methods {
+public class staticMethods {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Where do u want to travel? ");
