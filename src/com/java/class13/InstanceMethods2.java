@@ -22,7 +22,7 @@ public class InstanceMethods2 {
     // first
     public boolean finding1 (int n1, int n2) {
         if( n1 >= 0 && n2 >= 0) {
-            if(n1 % 10 == n2 % 10) {
+            if (n1 % 10 == n2 % 10) {
                 return true;
             }
         } return false;
