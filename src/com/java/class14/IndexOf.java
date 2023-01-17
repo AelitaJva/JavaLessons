@@ -14,7 +14,8 @@ public class IndexOf {
        // -1 => error
         String str2 = "bla bla bla";
         System.out.println(str2.indexOf("jkfksfbssf")); // -1
-        System.out.println(str2.indexOf("bla")); // -1
+        System.out.println(str2.indexOf("bla")); // 0
+        System.out.println(str2.indexOf("Bla")); // -1
 
 
         // indexOf(String str, int i) ->
@@ -24,14 +25,14 @@ public class IndexOf {
         System.out.println(str3.indexOf("Air", 19));
 
         String str4 = "Lala polluza lala land la lakers";
-        System.out.println(str4.indexOf("la", 5));
+        System.out.println(str4.indexOf("la", 5) + " Hiii");
         System.out.println(str4.indexOf("la", 13));
         System.out.println(str4.indexOf("la", 14));
 
 
         // indexOf(String str -
         String str5 = "Java Developer, Java Coding";
-        System.out.println(str5.lastIndexOf("Java"));
+        System.out.println(str5.lastIndexOf("Java") + "Hii");
 
         String str6 = "Almazova";
         int last2Chars = str6.lastIndexOf("va");
