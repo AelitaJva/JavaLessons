@@ -4,7 +4,8 @@ public class task03 {
     public static void main(String[] args) {
         String w1 = "This is exercise 1";
         String w2 = "This is exercise 2";
-
+        System.out.println(w1.compareTo(w2));
+        System.out.println(w1.concat(w2));
         System.out.print(compare(w1, w2));
     }
 
