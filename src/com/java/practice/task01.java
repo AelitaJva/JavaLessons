@@ -5,7 +5,6 @@ public class task01 {
         String w = "New York, America";
         System.out.println(w);
         System.out.println(pointer(w));
-
     }
 
     public static int pointer (String w) {

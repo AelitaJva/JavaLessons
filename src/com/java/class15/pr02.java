@@ -12,13 +12,9 @@ public class pr02 {
         String str4 = str3.replace('{', '[').replace('}', ']');
         System.out.println(str4);
 
-
-
         String str11 = "Rock and Roll, Spring Roll";
         str11 = str11.replace('o', 'B');
         System.out.println(str11);
-
-
 
         // replace string
         String str12 = "I hate Java";
@@ -29,11 +25,6 @@ public class pr02 {
 
         String str14 = str13.replaceFirst("s", "S").replace(")", ");");
         System.out.println(str14);
-
-
-
-
-
 
     }
 }

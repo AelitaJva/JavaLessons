@@ -9,6 +9,7 @@ public class replacePractice02 {
 
         // space
         int indexOfFirstSpace = str.indexOf(" ");
+        System.out.println(indexOfFirstSpace);
         // Adventure world
        String noDevX = str.substring(indexOfFirstSpace).replace('e', 'E');
 

@@ -5,7 +5,8 @@ public class Contains {
         String str = "Hello, Aelita! \n thank i for interviewing for Apple." +
                 "We want to congratulate u on receving an offer";
 
-        boolean doesContain = str.contains("Aplle");
+        System.out.println(str);
+        boolean doesContain = str.contains("Apple");
         System.out.println(doesContain);
 
         if(str.contains("Apple")) {
