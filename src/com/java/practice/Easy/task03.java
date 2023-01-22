@@ -1,4 +1,4 @@
-package com.java.practice;
+package com.java.practice.Easy;
 
 public class task03 {
     public static void main(String[] args) {
