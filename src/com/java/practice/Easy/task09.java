@@ -12,7 +12,7 @@ public class task09 {
         String str = sc.nextLine();
 
 
-        // world
+        // world == wordl
         String a = str.substring(0, str.length() - 2);
         String b = str.substring(str.length() - 2, str.length() - 1);
         String c = str.substring(str.length() - 1, str.length());

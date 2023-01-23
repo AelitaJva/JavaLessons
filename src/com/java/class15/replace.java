@@ -1,7 +1,8 @@
 package com.java.class15;
 
-public class pr02 {
-    // replace();
+public class replace {
+    // replace(); => character, syntax
+    // replaceFirst();
     public static void main(String[] args) {
         // replace Char
         String str = "earth is flat";
@@ -26,5 +27,7 @@ public class pr02 {
         String str14 = str13.replaceFirst("s", "S").replace(")", ");");
         System.out.println(str14);
 
+        String ael = "Ael";
+        System.out.println(ael.replace("A", "B"));
     }
 }

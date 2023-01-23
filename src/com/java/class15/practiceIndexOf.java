@@ -1,6 +1,6 @@
 package com.java.class15;
 
-public class practice {
+public class practiceIndexOf {
     public static void main(String[] args) {
      String str = "I love waking up 5am";
      // check for the length of the String
