@@ -2,7 +2,7 @@ package com.java.class17;
 
 import java.util.Scanner;
 
-public class length_1 {
+public class revisingWhileLoop {
     public static void main(String[] args) {
 
         //
@@ -45,7 +45,7 @@ public class length_1 {
 
         while (indexOfWord < word.length()) {
             System.out.println(word.charAt(indexOfWord));
-            indexOfWord = indexOfWord + 2;
+            indexOfWord+=2;
         }
         System.out.println("============================================");
 
