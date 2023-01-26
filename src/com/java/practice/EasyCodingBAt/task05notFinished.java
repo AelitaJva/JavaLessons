@@ -1,4 +1,4 @@
-package com.java.practice.Easy;
+package com.java.practice.EasyCodingBAt;
 
 public class task05notFinished {
     // Given a string, return a string length 1 from its front, unless front is false,

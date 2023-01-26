@@ -1,4 +1,4 @@
-package com.java.practice.Easy;
+package com.java.practice.EasyCodingBAt;
 
 public class task01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.java.practice.Easy;
+package com.java.practice.EasyCodingBAt;
 import java.util.Scanner;
 
 // Given a string, return a new string made of 3 copies

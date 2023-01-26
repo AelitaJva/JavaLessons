@@ -1,4 +1,4 @@
-package com.java.practice.Easy;
+package com.java.practice.EasyCodingBAt;
 
 import java.util.Scanner;
 
