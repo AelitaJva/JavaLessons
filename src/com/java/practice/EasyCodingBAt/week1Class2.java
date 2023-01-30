@@ -1,4 +1,4 @@
-package com.java.practice;
+package com.java.practice.EasyCodingBAt;
 
 public class week1Class2 {
     public static void main(String[] args) {
