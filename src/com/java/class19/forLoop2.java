@@ -2,7 +2,7 @@ package com.java.class19;
 
 import java.util.Scanner;
 
-public class pc2FactorialNum {
+public class forLoop2 {
     public static void main(String[] args) {
         // 6 factorial result:
         //  6 / 1, 3, 6
@@ -17,5 +17,7 @@ public class pc2FactorialNum {
                 System.out.println(f);
             }
         }
+
+
     }
 }

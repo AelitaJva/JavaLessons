@@ -1,39 +1,40 @@
 package com.java.class19;
 
-public class forLoopExample {
+public class forLoop1 {
     public static void main(String[] args) {
 
         int i = 1; // 1.initialization
         while (i <= 5) { // 2.condition
             System.out.println(i);
-            i++; // 3.increment / decrement
+            i++; // 3.increment / decrement // 1,2, 3, 4, 5
         }
 
 
         // for loop
         // ex 2:
+        System.out.println("==============");
         for (int j = 10; j <= 15; j++) {
-            System.out.println(j);
+            System.out.println(j); // 10, 11, 12, 13, 14, 15
         }
 
 
         // ex 3:
         System.out.println("==============");
         for (int a = 10; a >= 1; a--) {
-            System.out.println(a);
+            System.out.println(a); // 10, , 9, 8, 7, 6, 5, 4, 3, 2, 1
         }
 
         // ex 4:
         System.out.println("==============");
         for (int k = 1; k <= 10; k++) {
-            System.out.println(k + 1); // 2, 3, 4, 5, 6, 7,8,9,10,11
+            System.out.println(k + 1); // 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
         }
 
         // ex 5:
-        System.out.println("==============");
+        System.out.println("============== 5 ");
         for (int l = 1; l <= 10; ) {
             l++;
-            System.out.println(l + 1);
+            System.out.println(l + 1); // 3, 5, 7, 9, 11
         }
 
 

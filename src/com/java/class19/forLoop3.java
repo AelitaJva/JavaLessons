@@ -1,6 +1,6 @@
 package com.java.class19;
 
-public class pr2 {
+public class forLoop3 {
     public static void main(String[] args) {
 
         // sum of numbers:
