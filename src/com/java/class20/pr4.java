@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 // input - 4567
 // output - 7 6 5 4
-public class pc3 {
+
+public class pr4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any number: ");
