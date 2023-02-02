@@ -15,7 +15,8 @@ public class task05 {
         int revLine = 0;
 
         while (i > 0) {
-            revLine = revLine * 10 + i % 10;
+            int lastDigit = i % 10;
+            revLine = revLine * 10 + lastDigit;
             i = i / 10;
         }
         System.out.println(revLine);

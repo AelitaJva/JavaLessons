@@ -15,6 +15,8 @@ public class task03 {
         int sum = 0;
 
         while (n > 0) {
+            //int lastDigit = n % 10;
+            //sum = sum + lastDigit;
             sum = sum + n % 10;
             //System.out.println(n % 10); // gives the last digit
             n = n / 10;                 // remove the last digit by one
