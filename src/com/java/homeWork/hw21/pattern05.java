@@ -1,6 +1,6 @@
 package com.java.homeWork.hw21;
 
-public class task05 {
+public class pattern05 {
     /*
      *
      ***

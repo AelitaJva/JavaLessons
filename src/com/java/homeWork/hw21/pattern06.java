@@ -1,7 +1,8 @@
 package com.java.homeWork.hw21;
 
-public class task06 {
+public class pattern06 {
     public static void main(String[] args) {
+
         for (int i=5; i>=1; i--) {     // i => number of rows
 
             // space
@@ -9,6 +10,7 @@ public class task06 {
                 System.out.print(" ");
             }
 
+            // digit
             for (int j=1; j<=i*2-1; j++) {
                 System.out.print("*");
             }
