@@ -1,19 +1,26 @@
 package com.java.practice.AlexLee;
 
-import java.util.Arrays;
-
 public class reverseString {
     public static void main(String[] args) {
-        String r = reverseWord("Hello World");
-        reverseWord(r);
+        String s = reverseWord("Alex");           // new method
+        System.out.println(s);
     }
 
-    public static String reverseWord (String s) {
-        char [] letters = new char[s.length()];
+    public static String  reverseWord (String r) {
+        char [] letters = new char[r.length()];     // to store each character
 
-        for (int i=0; i<s.length(); i++) {
-            System.out.println(s.charAt(i));
+        int index = 0;                              // to take indexes of a String to store in an Array
+        for (int i=r.length()-1; i>=0; i--) {       // to take each character
+            letters[index] = r.charAt(i);
+            index++;
         }
-        return s;
+
+        String reverse = "";
+        for (int i=0; i< r.length(); i++) {          // to store reverse word
+            reverse+=letters[i];
+        }
+
+
+        return reverse;                               // return reverse
     }
 }
