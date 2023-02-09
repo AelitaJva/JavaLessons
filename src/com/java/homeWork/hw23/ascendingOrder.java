@@ -1,4 +1,4 @@
-package com.java.hw23;
+package com.java.homeWork.hw23;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -8,7 +8,6 @@ public class ascendingOrder {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 5 numbers: ");
 
-        int greater;
         int numbers [] = new int[5];
         for (int i=0; i<5; i++) {
             numbers[i] = sc.nextInt();

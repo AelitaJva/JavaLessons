@@ -1,8 +1,8 @@
-package com.java.hw23;
+package com.java.homeWork.hw23;
 
 import java.util.Scanner;
 
-public class duplicateNumber {
+public class duplicateNumber_Unfinished {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 8 numbers: ");

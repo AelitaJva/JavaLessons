@@ -1,4 +1,4 @@
-package com.java.hw23;
+package com.java.homeWork.hw23;
 
 import java.util.Arrays;
 
