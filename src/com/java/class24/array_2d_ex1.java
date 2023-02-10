@@ -12,34 +12,6 @@ public class array_2d_ex1 {
                 {6, 3, 1},
         };
 
-//        for (int i=0; i<data.length; i++) {
-//            for (int j=0; j<data[i].length; j++) {
-//                System.out.print(data[i][j]);
-//            }
-//            System.out.println();
-//        }
-
-//        int sum = 0;
-//        for (int i=0; i<data.length; i++) {
-//            for (int j=0; j<data[i].length; j++) {
-//                sum+=data[i][j];
-//            }
-//        }
-//        System.out.println(sum);
-        //int sum = 0;
-
-
-
-
-//        for (int i= 0; i<data.length; i++) {
-//            int sum = 0;
-//
-//            for (int j= 0; j<data.length; j++) {
-//                sum+=data[i][j];
-//            }
-//
-//            System.out.println("Some of row " + (i+1) +  " = " + sum);
-//        }
 
 //        int data1 [][] = new int [3][3];
 //        Scanner sc = new Scanner(System.in);
