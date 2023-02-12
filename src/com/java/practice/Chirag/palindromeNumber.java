@@ -12,16 +12,16 @@ public class palindromeNumber {
         System.out.println("Which number do you want to check whether is palindrome or not?");
         int num = sc.nextInt();
         int backUp = num;
-        int reverseNum=0;
 
+        int reverseNum=0;
         while (num > 0) {
             int lastDigit = num % 10;
             reverseNum = reverseNum * 10 + lastDigit;
             num/=10;
         }
 
-        System.out.println(backUp);
-        System.out.println(reverseNum);
+        System.out.println("Given number: " + backUp);
+        System.out.println("Palindrome number: " + reverseNum);
 
         boolean isItPalindrome = false;
         if(reverseNum == backUp) {
