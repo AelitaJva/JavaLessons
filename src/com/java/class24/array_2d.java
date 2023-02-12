@@ -11,8 +11,8 @@ public class array_2d {
                 {88, 99}
         };
 
-        System.out.println("rows: " + numbers.length);            // the number of rows
-        System.out.println("columns: " + numbers[0].length);         // the number of column
+        System.out.println("rows: " + numbers.length);            // the number of rows - 4
+        System.out.println("columns: " + numbers[0].length);         // the number of column - 2
 
         // print out all rows and columns
         for (int i=0; i<numbers.length; i++) {         // rows

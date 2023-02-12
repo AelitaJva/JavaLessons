@@ -34,11 +34,5 @@ public class array_2d_ex1 {
             System.out.print((i+1) + greatest);
         }
 
-//        for (int i=0; i<data1.length; i++) {
-//            for (int j= 0; j<data1[i].length; j++) {
-//                System.out.print(data1[i][j]);
-//            }
-//            System.out.println();
-//        }
     }
 }
