@@ -18,7 +18,7 @@ public class SeparateEachDigit {
 
         while (number != 0) {
             System.out.println(number % 10);
-            number /=10;
+            number/=10;
         }
 
     }
