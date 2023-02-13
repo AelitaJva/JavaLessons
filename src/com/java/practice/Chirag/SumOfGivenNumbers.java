@@ -1,6 +1,6 @@
 package com.java.practice.Chirag;
 
-public class sumOfGivenNumbers {
+public class SumOfGivenNumbers {
     public static void main(String[] args) {
         // program sum of from 1 to 22
 

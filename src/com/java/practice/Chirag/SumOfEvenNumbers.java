@@ -1,6 +1,6 @@
 package com.java.practice.Chirag;
 
-public class sumOfEvenNumbers {
+public class SumOfEvenNumbers {
     public static void main(String[] args) {
         // program to print out the sum of even numbers from 1 to 22
 
