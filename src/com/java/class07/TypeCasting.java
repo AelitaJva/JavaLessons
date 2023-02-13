@@ -44,7 +44,7 @@ public class TypeCasting {
 
         int num3 = 55;
         double doubleNum3 = num3;
-        System.out.println(doubleNum3); // 55.0
+        System.out.println(doubleNum3); // 55.0 // implicit
 
         // I want to get Average customer Spending on my product
         // I sold $4,544,95.9
