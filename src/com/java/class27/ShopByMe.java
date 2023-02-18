@@ -1,21 +1,22 @@
 package com.java.class27;
 
-public class ShopExampleByMe {
+public class ShopByMe {
     String name;
     String choiceClothes;
     int price;
     int result;
 
 
-    ShopExampleByMe() {
+    ShopByMe() {
         System.out.println("Welcome to our shop!");
     }
 
-    ShopExampleByMe(String nameFromUser, String userChoice) {
+    ShopByMe(String nameFromUser, String userChoice) {
         name = nameFromUser;
         choiceClothes = userChoice;
         price = 7000;
     }
+
 
     void check() {
         result = result + price;
