@@ -1,11 +1,12 @@
 package com.java.class27;
 class Car {
-    int price;
-    String name;
+    static int price;
 
     Car() {
         price++;
+
     }
+
 
 
 }
