@@ -1,7 +1,7 @@
 package com.java.Practice.EasyCodingBAt;
 import java.util.Scanner;
 
-public class SleepIn {
+public class SleepInFirst {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
