@@ -1,7 +1,6 @@
 package com.java.class31;
 
 import java.util.Scanner;
-import java.util.concurrent.BrokenBarrierException;
 
 class Browser {
     void openWebsite () {
@@ -29,7 +28,7 @@ class Safari extends  Browser {
 }
 
 
-public class as {
+public class DynamicalPolymorphism {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please, enter browser");
