@@ -7,8 +7,8 @@ class Bank {
 }
 
 
-class ChaseBank extends Bank{
-    void displayRateOfInterests() {
+class ChaseBank extends Bank {
+    void displayRateOfInterests () {
         System.out.println("6.0%");
         // displayRateOfInterests();  // infinite loop
         super.displayRateOfInterests();

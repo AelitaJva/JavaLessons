@@ -5,6 +5,7 @@ public class Question3 {
         // answer: 0
 
         int i =1;
+
         do {
             i--;
         } while (i > 2);

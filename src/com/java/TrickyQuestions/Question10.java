@@ -1,5 +1,4 @@
 package com.java.TrickyQuestions;
-
 class Car {
     static int count;
 
@@ -23,6 +22,5 @@ public class Question10 {
 
         c2.printCount();
         c3.printCount();
-
     }
 }

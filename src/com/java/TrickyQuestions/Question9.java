@@ -2,11 +2,9 @@ package com.java.TrickyQuestions;
 
 class Test {
     int count;
-
     Test () {
         count++;
     }
-
     public void printNumber () {
         System.out.println(count);
     }
