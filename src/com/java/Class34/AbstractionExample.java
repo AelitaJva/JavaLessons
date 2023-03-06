@@ -15,7 +15,7 @@ class ChaseBank extends Bank {
     }
 }
 
-public class class34 {
+public class AbstractionExample {
     public static void main(String[] args) {
        //  Bank b = new Bank();
         //b.displayRateOfInterest();
