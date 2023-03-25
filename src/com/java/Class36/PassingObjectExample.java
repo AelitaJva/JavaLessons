@@ -1,4 +1,4 @@
-package com.java.class36;
+package com.java.Class36;
 class Person {
     String name;
     int age;

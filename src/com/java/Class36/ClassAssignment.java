@@ -1,6 +1,4 @@
-package com.java.class36;
-
-import java.util.Arrays;
+package com.java.Class36;
 
 public class ClassAssignment {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.java.class36;
+package com.java.Class36;
 
 public class ExceptionExample {
     public static void main(String[] args) {
